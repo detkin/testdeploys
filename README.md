@@ -20,7 +20,6 @@ Hey there changes
 Change by a stranger
 test dedup
 
-asfasdfsdf
 
 FUTURE
 MORE FUTURE 
